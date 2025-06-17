@@ -1,7 +1,7 @@
 # Banking System Test Cases
 
 ## Project Summary
-- **Application**: Guru99 Banking Portal  
+- **Test Object**: Guru99 Banking SRS  
 - **Scope**: 131 manual test cases (Manager + Customer flows)  
 - **User Roles Covered**:
   -  **Manager Functions**:
