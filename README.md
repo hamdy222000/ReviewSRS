@@ -38,8 +38,8 @@
 | R1 | Required field | All forms |
 | R2 | No special chars | IDs, PINs |
 | R3 | Numeric only | Accounts, Amounts |
-| R5 | Text only | Names, Addresses |
-| R6 | No leading spaces | Email, User IDs |
+| R4 | Text only | Names, Addresses |
+| R5 | No leading spaces | Email, User IDs |
 
 **Test Status**: Designed - Ready for Execution  
 
